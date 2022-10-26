@@ -1,0 +1,128 @@
+{"intents": [
+        {"tag": "bscct",
+         "patterns": ["show me the details of bsc chemical technology", "show me the details of the bsc ct", "bsc chemical technology details", "bsc ct details", "i want the details of bsc chemical technology", "details of bsc chemical technology", "details of chemical technology","bsc chemical technology details?"],
+         "responses": ["BSc_Chemical_Technology.pdf"],
+         "context_set": ""
+        },
+
+        {"tag": "bsccds",
+         "patterns": ["show me the details of bsc computer data science and data analytics engineering", "show me the details of the bsc data science", "details of bsc computer data science", "details of bsc data science", "data science details", "details of data science", "i want the details of bsc computer data science and data analytics engineering","bsc data science details?","bsc computer data science details?"],
+         "responses": ["BSC_CDS.pdf"],
+         "context_set": ""
+        },
+
+        {"tag": "bsccsesys",
+         "patterns": ["show me the details of bsc computer systems and engineering", "details of bsc computer systems and engineering","bsc computer systems & engineering details", "computer systems and engineering details", "i want the details of bsc computer systems and engineering","bsc computer systems and engineering details","bsc computer systems details?"],
+         "responses": ["BSC_COMPUTER_SYSTEM_ENGINEERING.pdf"],
+         "context_set": ""
+        },
+
+        {"tag": "bsccsesci",
+         "patterns": ["show me the details of bsc computer science and engineering", "details of bsc computer science and engineering","bsc computer science & engineering details", "computer science and engineering details", "i want the details of bsc computer science and engineering","bsc computer science details?","bsc computer science and engineering details?"],
+         "responses": ["BSC_COMP_SCIENCE_ENGG.pdf"],
+         "context_set": ""
+        },
+
+        {"tag": "bscmscs",
+         "patterns": ["show me the details of bsc maths stats computer science", "show me the details of the bsc mscs", "details of bsc maths stats computer science","bsc maths stats computer science details", "maths stats computer science details", "i want the details of bsc maths stats computer science","bsc maths stats and computer science details?","bsc maths stats and cs details?"],
+         "responses": ["BSC_MSCS.pdf"],
+         "context_set": ""
+        },
+
+        {"tag": "bscet",
+         "patterns": ["show me the details of bsc electronics technology", "show me the details of the bsc electronics", "details of bsc electronics","bsc electronics details", "electronics technology details", "i want the details of bsc electronics technology","bsc electronics details?","bsc electronics and communication deails?"],
+         "responses": ["BSc_ELECTRONIC_AND_TECHNOLOGY.pdf"],
+         "context_set": ""
+	},
+
+	{"tag": "bscas",
+         "patterns": ["show me the details of bsc agricultural science and rural development", "show me the details of the bsc agri science", "details of bsc agriculture","bsc agriculture details", "agriculture science details", "i want the details of bsc agriculture science and rural development","bsc agriculture details","bsc agri science details?","bsc rural development details?"],
+        "responses": ["BSc_Hons_Agricultural_Science_Rural_Development.pdf"],
+         "context_set": ""
+        },
+
+        {"tag": "bscbt",
+         "patterns": ["show me the details of bsc bio technology, chemistry and genetics", "show me the details of the bsc bt", "details of bsc bio technology","bsc bio technology details", "bio technology details", "i want the details of bsc bio technology, chemistry and genetics","bsc bio technology details","bsc bio tech details?"],
+         "responses": ["BSC_BIOTECH.pdf"],
+         "context_set": ""
+        },
+
+        {"tag": "bscftm",
+         "patterns": ["show me the details of bsc food technology and management", "show me the details of the bsc ft", "details of bsc food technology","bsc food technology and management details", "food technology and management details", "i want the details of bsc food technology and management","bsc food technology details?","bsc food management details?","bsc food technology and management details?"],
+         "responses": ["BSC_FT.pdf"],
+         "context_set": ""
+        },
+
+        {"tag": "bscma",
+         "patterns": ["show me the details of bsc multimdia and animation", "send me the details of the bsc multimedia", "details of bsc multimedia", "bsc multimedia details", "multimedia and animation details", "i want the details of bsc multimedia","bsc multimedia details?","bsc animation details?","bsc multimedia and animation details?"],
+         "responses": ["BSC_MA.pdf"],
+         "context_set": ""
+        },
+
+        {"tag": "bscfsnd",
+         "patterns": ["show me the details of bsc food science, nutrition and dietetics", "show me the details of the bsc nutrition", "details of bsc food science, nutrition and dietetics","bsc food science nutrition and dietetics details", "food science nutrition and dietetics details", "i want the details of bsc food science nutrition and dietetics","bsc food science details?","bsc food nutrition and dietetics details?","bsc food science nutrition and dietetics details?"],
+         "responses": ["BSC_FSN.pdf"],
+         "context_set": ""
+        },
+	
+	{"tag": "bcomhons",
+        "patterns": ["show me the details of bcom honors", "show me the details of the bcom hons", "details of bcom honors","bcom honors details", "i want the details of bcom honors","bcom honors details"],
+        "responses": ["BCOM_HONORS.pdf"],
+        "context_set": ""
+	},
+
+	{"tag": "bcomaspm",
+        "patterns": ["show me the details of bcom advertising, sales promotion and management", "show me the details of the bcom advertisement, sales promotion and sales management", "details of bcom advertisement","details of bcom sales promotion", "details of bcom sales management", "bcom advertisement, sales promotion and sales management details", "bcom advertisement, sales promotion and sales management details", "i want the details of bcom advertisement, sales promotion and sales management","bcom advertisement details","bcom sales promtion details","bcom sales management details","bcom advertising sales promotion and sales management details"],
+        "responses": ["BCOM_MARKETING.pdf"],
+        "context_set": ""
+	},	
+	
+	{"tag": "bcomgenbs",
+        "patterns": ["show me the details of bcom generals", "show me the details of the bcom business studies", "details of bcom generals","details of bcom business studies", "details of bcom generals", "bcom generals and business studies details", "bcom generals details", "bcom business studies details", "bcom generals details", "i want the details of bcom generals and business studies","bcom generals details","bcom business studies details?"],
+        "responses": ["BCom_Bussiness_Studies.pdf"],
+        "context_set": ""
+	},	
+
+	{"tag": "bcomcomp",
+        "patterns": ["show me the details of bcom computers", "send me the details of the bcom comp", "details of bcom computers", "bcom computers details","i want the details of bcom computers"],
+        "responses": ["BCOM_COMPUTERS.pdf"],
+        "context_set": ""
+	},	 
+	
+	{"tag": "bcomiaf",
+        "patterns": ["show me the details of bcom international accounting & finance", "send me the details of the bcom iaf", "details of bcom international accounting","details of bcom international accounting and finance", "details of bcom international accounting", "bcom international accounting details", "bcom international accounting and finance details", "bcom finance details", "i want the details of bcom international accounting and finance details","bcom international accounting details","bcom international accounting and finance details?"],
+        "responses": ["BCOM_IAF.pdf"],
+        "context_set": ""
+	},	
+
+	{"tag": "bcomhonssf",
+        "patterns": ["show me the details of bcom honors in strategic finance", "show me the details of the bcom strategic finance", "details of bcom honors in strategic finance","details of bcom strategic finance", "bcom honors in strategic finance details", "bcom strategic finance details", "i want the details of bcom honors in strategic finance"],
+        "responses": ["BCom_SF.pdf"],
+        "context_set": ""
+	},	
+
+	{"tag": "bcombpm",
+        "patterns": ["show me the details of bcom business process management", "show me the details of the bcom business management", "details of bcom business management","details of bcom business process management", "bcom business process management details", "bcom business management details","i want the details of bcom business process management"],
+        "responses": ["BCom_BPM.pdf"],
+        "context_set": ""
+	},
+
+	{"tag": "bamc",
+        "patterns": ["show me the details of ba mass communication", "show me the details of the ba mass comm", "details of ba mass communication","details of ba mass comm", "ba mass communication details", "i want the details of ba mass communication"],
+        "responses": ["BA_MassComm.pdf"],
+        "context_set": ""
+	},
+
+	{"tag": "bapej",
+        "patterns": ["show me the details of ba psychology, english & journalism", "show me the details of the ba psychology", "show me the details of the ba english", "show me the details of the ba journalism", "details of ba psychology","details of ba english", "details of ba journalism", "ba psychology details", "ba english details", "ba journalism details", "i want the details of ba psychology english and journalism","ba psychology "],
+        "responses": ["BA_Psychology.pdf"],
+        "context_set": ""
+	},	
+
+	{"tag": "bba",
+        "patterns": ["show me details of business administration", "show me the details of the bba", "details of bba", "bba details", "i want the details of bba"],
+        "responses": ["BBA.pdf"],
+        "context_set": ""
+	}     	      
+   ]
+}

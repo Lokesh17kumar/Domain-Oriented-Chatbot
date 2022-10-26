@@ -1,0 +1,237 @@
+{"intents": [
+        {"tag": "Greetings",
+         "patterns": ["hi","hey","hello","namaste"],
+         "responses": ["hello","hey","hi","namaste"],
+         "context_set": ""
+        },
+
+        {"tag": "AboutBot",
+         "patterns": ["what is your name?","who are you?","what can you do?","what is your work?"],
+         "responses": ["Hey, I am loyola bot.I can answer your queries regarding loyola college"],
+         "context_set": ""
+        },
+
+        {"tag": "Built",
+         "patterns": ["how are you built?", "how do you function?", "how can you answer queries?", "bot how do you work?","how were you developed?"],
+         "responses": ["I'm a chatbot. I'm developed using deep learning & NLP technology"],
+         "context_set": ""
+        },
+
+        {"tag": "Lacollege",
+         "patterns": ["what is loyola college?", "what is loyola academy degree and pg college?","what is loyola academy?","loyola college?", "loyola academy?"],
+         "responses": ["Loyola academy degree and pg college is a catholic miniority institution. Loyola college offers 21 UG courses along with 5 PG courses"],
+         "context_set": ""
+        },
+
+        {"tag": "TransFacility",
+         "patterns": ["does the college has transport facility", "does the college provide transport facility", "transport facility?", "does loyola college provide transport facility?"],
+         "responses": ["Yes, the college does provide transport facility"],
+         "context_set": ""
+        },
+
+        {"tag": "Location",
+         "patterns": ["where is loyola academy situated?", "where is loyola college situated?","where is loyola situated?","tell me the location of loyola?", "loyola college location", "where is the college situated?", "college location?", "where is the college situated"],
+         "responses": ["Loyola college is situated in old alwal, secunderabad, telengana, india."],
+         "context_set": ""
+        },
+
+        {"tag": "Management",
+         "patterns": ["loyola college is managed by whom?", "loyola academy is managed by whom?","who owns loyola college?","who owns loyola?", "who manages the college?", "college management?"],
+         "responses": ["Loyola college is managed and administered by the andhra jesuit Province, belonging to the society of jesus, an international catholic religious order."],
+         "context_set": ""
+        },
+
+        {"tag": "Affiliation",
+         "patterns": ["loyola college is affiliated to which university?", "loyola is affiliated to which university?","loyola academy is affiliated to which university?","does loyola college has any affiliation", "college affiliation?"],
+         "responses": ["Loyola college is affiliated to the osmania university and was granted the status of autonomy in 1992 by the university grant comission"],
+         "context_set": ""
+        },
+
+        {"tag": "Founder",
+         "patterns": ["who is the founder of the college?", "who is the founder of loyola?","who founded loyola college?","who founded loyola?","college founder?"],
+         "responses": ["Rev fr t baliah SJ is the founder of the loyola academy junior as well as loyola academy degree & pg college"],
+         "context_set": ""
+        },
+
+        {"tag": "Established",
+         "patterns": ["when was loyola college established?", "in which year was the college founded?","when was loyola ug and pg college was founded?","in which year was the college established?", "when was college founded?"],
+         "responses": ["Loyola academy degree & pg college was established in the year 1978"],
+         "context_set": ""
+	},
+
+	{"tag": "CampusArea",
+         "patterns": ["what is the campus area of the college?", "what is the campus area of loyola?","what is the campus area?","campus area?","campus area of the college?"],
+        "responses": ["Loyola college has a campus area of 138 acres, with playfields and farm."],
+         "context_set": ""
+        },
+
+        {"tag": "CollegeDetails",
+         "patterns": ["give me some details about loyola?", "i want some details about the college?", "tell me something about loyola?", "tell me something about the college?", "give me some details about the college?", "tell me something about loyola academy?","loyola college details?", "college details?","tell me about the college?"],
+         "responses": ["1. loyola college is a catholic minority institution\n2. education world ranked loyola college 1st at state level & 11th at national level\n3. NAAC re-accredited loyola college in 2019 & awarded an 'A' grade\n4. our vast campus which is approx 132 acres, makes us hyderabad's largest private college\n5. loyola college has a total of 6 blocks,own weather station & reverse osmosis water purification unit\n7. loyola emphasizes as much on practical understanding as on theory, with a total of 28 labs."],
+         "context_set": ""
+        },
+
+        {"tag": "CollegeRankings",
+         "patterns": ["what is the rank of the college?", "what is the rank of loyola college?", "what is the rank of loyola academy?","what is the rank of loyola?", "what is the college rating?","college rank?", "rank of the college?"],
+         "responses": ["1. education world ranked loyola college 1st at state level & 11th at national level\n2. india today rated the loyola college for the 3rd consecutive year by giving 1st rank among the city colleges of hyderabad & secunderabad for commerce, science & arts"],
+         "context_set": ""
+        },
+
+        {"tag": "CollegeVision",
+         "patterns": ["what is the vision of the college?", "what is the vision of the loyola college?", "what is the vision of loyola academy?", "what is the vision of loyola?","college vision?","vision of the college?"],
+         "responses": ["To impart higher education with integral formation which involves academic excellence, spiritual growth, social commitment and value based leadership."],
+         "context_set": ""
+        },
+
+        {"tag": "CollegeMission",
+         "patterns": ["what is the mission of the college?", "what is the mission of the loyola college?", "what is the mission of loyola academy?", "what is the mission of loyola?","mission of the college?", "college mission"],
+         "responses": ["It is to form 'men and women for others' and mould our students as global citizens with competence, conscience and compassionate commitment & Special concern is shown towards the socially and economically underprivileged students."],
+         "context_set": ""
+	},	
+
+        {"tag": "Principal",
+         "patterns": ["who is the principal of the college?", "who is the principal of loyola?", "who is the principal of loyola academy?", "who is the principal of loyola college?","college principal","principal of the loyola college?","principal?"],
+         "responses": ["The principal of the loyola college is Rev Fr Dr Pothireddy Anthony SJ."],
+         "context_set": ""
+	},
+	
+	{"tag": "VicePrincipal",
+        "patterns": ["who is the vice principal of the college?", "who is the vice principal of loyola?", "who is the vice principal of loyola academy?", "who is the vice principal of loyola college?", "vice principal of the college?","vice principal?"],
+        "responses": ["1. Rev Fr Dr L Joji Reddy SJ is the vice principal of loyola pg college\n 2. Rev Fr Dr Balaswamy Sj is the vice principal of loyola ug college"],
+        "context_set": ""
+	},
+
+	{"tag": "Rector",
+        "patterns": ["who is the rector of the college?", "who is the rector of loyola?", "who is the rector of loyola academy?", "who is the rector of loyola college?","rector of the college?", "rector"],
+        "responses": ["Rev Fr Raju Soosaimanickam is the rector of the college."],
+        "context_set": ""
+	},	
+	
+	{"tag": "Correspondent",
+        "patterns": ["who is the correspondent of the college?", "who is the correspondent of loyola?", "who is the correspondent of loyola academy?", "who is the correspondent of loyola acedemy?", "who is the correspondent of loyola college?","correspondent of the college?"],
+        "responses": ["Rev Fr P Gnanadevan Swaminathan SJ is the correspondent of the college."],
+        "context_set": ""
+	},
+
+	{"tag": "CollegeFacilities",
+        "patterns": ["what are the facilities provided by the college?", "what are the facilities provided by loyola?", "what are the facilities provided by loyola academy?", "what are the facilities provided by the college?","college facilities?", "loyola college facilities"],
+        "responses": ["1. Boys hostel\n2. Girls hostel\n3. GYM\n4. Library\n5. Sports\n6. Cafeteria\n7. Auditorium\n8. Medical\n9. wifi\n10. IT infrastructure\n11. Laboratories\n12. Alumni associations\n13. Guest room"],
+        "context_set": ""
+	},	
+ 
+	{"tag" : "LoyolaAcademics",
+	"patterns" : ["tell me about academics at loyola","tell me about academics at loyola college?", "tell me about academics at the college","how are academics at loyola?","how are academics at loyola college?","how are academics at the college?", "college academics?","academics at loyola?"],
+	"responses" : ["1. Academics form the core of the loyola academy mission & we truly offer a world class experience\n2. Across our courses, infrastructure, faculty & evaluation methods, students are exposed to the very best of collegiate education\n3. Just a few numbers summarizing academics at loyola : 4105 students, 26 courses, 68 support staff, 148 faculty"],
+	"context_set" : ""
+	},
+
+	{"tag" : "LoyolaCourses",
+	"patterns" : ["show me the list of courses offered by loyola?","what are the courses that are offered by loyola?","what are the courses that are offered by the loyola college?","what are the courses offered by the college?","courses offered by loyola?","courses offered by the college?","courses offered by loyola academy?","courses offered?","college courses?"],
+	"responses" : ["Courses offered by the loyola college are:-\n1.Under Graduate courses\n2. Post Graduate courses\n3. Foundation courses"],
+	"context_set" : ""
+	},
+
+	{"tag" : "UgCourses",
+	"patterns" : ["show me the list of ug courses","list of ug courses offered at loyola","list of ug courses offered by the college?","list of ug courses offered at loyola academy", "ug courses", "list of ug courses?","ug courses list?"],
+	"responses" : ["1.  BSc - Chemical Technology\n2.  BSc(Honours) - in  Agriculture Science and Rural Development\n3  BSc - Computer Science and Engineering\n4  BCom Honors\n5.  BSc - Electronics Technology\n6.  BSc - Computer Systems & Engineering\n7.  BCom - Advertising, Sales Promotion & Sales Management\n8.  BSc - Biotechnology, Chemistry & Genetics\n9.  BCom - General / Business Studies\n10. BA - Mass Communication\n11. BSc - Food Technology and Management\n12. BA - Psychology, English & Journalism\n13. BSc - Maths, Statistics & Computer Science\n14. BSc - Multimedia and Animation\n15. BCom - Computers\n16. BBA - Bachelor of Business Administration\n17. BCom - International Accounting & Finance\n18. BSc - Computer Data Science & Analytics Engineering\n19. BCom(Honors) - in Strategic Finance\n20. BCom - Business Process Management\n21. BSc - Food Science, Nutrition & Dietetics "],
+	"context_set" : ""
+	},
+
+	{"tag" : "PgCourses",
+	"patterns" : ["show me the list of pg courses","list of pg courses offered at loyola","list of pg courses offered by the college?","list of pg courses offered at loyola academy", "pg courses","pg courses list?","list of pg courses?"],
+	"responses" : ["1. MCA - Master of Computer Applications\n2. MBA - Master of Business Administration\n3. MSc - Organic Chemistry\n4. MSc - Bio Technology\n5. MSc - Food Technology & Management."],
+	"context_set" : ""
+	},
+
+	{"tag" : "ScienceCourses",
+	"patterns" : ["show me the list of science courses","list of science courses offered at loyola","list of science courses offered by the college?","list of science courses offered at loyola academy","science courses","list of science courses?","science courses list"],
+	"responses" : ["1. BSc - Chemical Technology\n2. BSc (Honors) - Agriculture Science and Rural Development\n3. BSc - Computer Science and Engineering\n4. BSc - Electronics Technology\n5. BSc - Computer Systems & Engineering\n6. BSc - Biotechnology, Chemistry & Genetics\n7. BSc - Food Technology and Management\n8. BSc - Maths, Statistics & Computer Science\n9. BSc - Multimedia and Animation\n10.  BSc - Computer Data Science & Analytics Engineering\n11. BSc - Food Science, Nutrition & Dietetics\n12. MSc - Organic Chemistry\n13. MSc - Biotechnology\n14. MSc - Food Technology & Management"],
+	"context_set" : ""
+	},
+
+	{"tag" : "CommerceCourses",
+	"patterns" : ["show me the list of commerce courses","list of commerce courses offered at loyola","list of commerce courses offered by the college?","list of commerce courses offered at loyola academy", "commerce courses","commerce courses?","commerce courses list","list of commerce courses"],
+	"responses" : ["1. BCom Honors\n2. BCom - Advertising, Sales Promotion & Sales Management\n3. BCom - General / Business Studies\n4. BCom - Computers\n5. BCom - International Accounting & Finance\n6. BCom - Honors in Strategic Finance\n7. BCom - Business Process Management"],
+	"context_set" : ""
+	},
+
+	{"tag" : "ArtsCourses",
+	"patterns" : ["show me the list of arts courses","list of arts courses offered at loyola","list of arts courses offered by the college?","list of arts courses offered at loyola academy", "arts courses", "arts courses list?","list of arts courses?"],
+	"responses" : ["1. BA - Mass Communication\n2. BA - Psychology, English & Journalism"],
+	"context_set" : ""
+	},
+	
+	{"tag" : "BusinessCourses",
+	"patterns" : ["show me the list of business courses","list of business courses offered at loyola","list of business courses offered by the college?","list of business courses offered at loyola academy", "business courses","business courses list?","list of business courses?"],
+	"responses" : ["1. BBA - Bachelor of Business Administration\n2. MBA - Master of Business Administration"],
+	"context_set" : ""
+	},
+
+	{"tag" : "ItCourses",
+	"patterns" : ["show me the list of it courses","list of it courses offered at loyola","list of it courses offered by the college?","list of it courses offered at loyola academy", "it courses","list of it courses","it courses list?"],
+	"responses" : ["1. MCA Master of Computer Applications "],
+	"context_set" : ""
+	},
+
+	{"tag" : "FoundationCourses",
+	"patterns" : ["show me the list of foundation courses","list of foundation courses offered at loyola","list of foundation courses offered by the college?","what are foundation courses?", "foundation courses","what are foundation courses?","foundation courses?"],
+	"responses" : ["Foundation course aims to impart the values, that are not only useful in personal life but also serve as a strong foundation for careers\nThe following are the foundation courses offered by the college:\n1. English\n2. Value Education\n3. Indian Culture\n4. Environmental Studies"],
+	"context_set" : ""
+	},
+
+	{"tag" : "AdmissionProcedure",
+	"patterns" : ["what is the admission procedure?","how to get admission at loyola?","what is the admission procedure of the college?","how to get admission at the college?","admission procedure?","how to get admission in loyola?","how to get admission in the college?"],
+	"responses" : ["1. Register and Apply :\nInterested candidates can apply offline with required information\n2. Entrance Test:\nEligible candidates need to appear for an entrance test conducted by Loyola Academy Degree and PG College\n3. Personal Interview:\nShortlisted candidates will be called for a personal interview based on the marks obtained in the entrance test"],
+	"context_set" : ""
+	},
+
+	{"tag" : "semexams",
+	"patterns" : ["what is the exam pattern at loyola?","how are semester exams organized?","how semester exams are evaluated?","how are semester exams evaluated?","how exams are conducted in loyola?","how exams are conducted in the college?","college exam pattern?"],
+	"responses" : ["1. Weekly Assignments\n2. Mid-Semesters\n3. Other Markers\nInclude viva voce, seminars, attendance & assessments\n4. Semester-End Exams"],
+	"context_set" : ""
+	},
+
+	{"tag" : "researchprogrammes",
+	"patterns" : ["does loyola organize research programmes?","tell me about research programmes at loyola?","research at loyola?"],
+	"responses" : ["Research programs are a way of life here at Loyola, more and more faculty are joining the trend. "],
+	"context_set" : ""
+	},
+
+	{"tag" : "awardshonours",
+	"patterns" : ["does loyola honour students for their performance?","does loyola offers awards and honours?", "does the college offer students with honours and rewards for their performance?", "awards and honours at loyola?"],
+	"responses" : ["loyola offers awards and honours in:\n1. Monetary scholarships and other awards based on academic performances\n2. Prizes for extraordinary performances in sports\n3. Prizes for displaying leadership\n4. Prizes for all-round performances"],
+	"context_set" : ""
+	},
+
+	{"tag" : "academicawards",
+	"patterns" : ["does loyola offer students rewards for their excellence in various academics?","does the college offer students awards in extra curricular activities?", "academic awards", "academic awards at loyola?"],
+	"responses" : ["Awards in various Academic & extra curricular activities :\n1. Merit scholarships for academic achievers\n2. Prizes for achievements in sports\n3. Prizes for extraordinary achievements"],
+	"context_set" : ""
+	},
+
+
+	{"tag" : "fulltimedegree",
+	"patterns" : ["how to recieve a full time degree after completion of the course?","how to recieve a full time degree from loyola?", "how to recieve a full time degree from the college?","how to earn a degree certificate?","how to claim the degree certificate?"],
+	"responses" : ["1. A student needs to have a minimum of 75% attendance\n2. A minimum of 40% on CIA, 40% on SEE theory, and 50% on SEE practicals\n3. Re-examinations are not conducted except under extraordinary circumstances and at the Principal’s discretion\n4. The SEE will be in the form of a comprehensive written examination for each course at the end of the semester and most of the subjects have practical exams too"],
+	"context_set" : ""
+	},
+
+	{"tag" : "placementdetails",
+	"patterns" : ["how are placements at loyola?","how are placements at the college?", "how are placements at loyola academy?","i need placement details?", "tell me about placements at loyola?","tell me about campus placements?","placements at loyola","placements at the college?"],
+	"responses" : ["The following are some of the placement details :\n1. 350k pa. Companies gladly pay for our talent pool.\n2. 100 companies \n3. 300 jobs in 2018\n4. We place students only in the best companies\n5. 600 internships"],
+	"context_set" : ""
+	},
+
+	{"tag" : "TopComp",
+	"patterns" : ["some of the top recruiting companies?", "top companies at the campus placements?", "top recruiting companies at loyola?", "top recruiting companies?"],
+	"responses" : ["some of the top companies are Amazon,DELL,Deloitte,Cognizant,Goldman Sachs,Infosys, and so on "],
+	"context_set" : ""
+	},
+
+        {"tag": "ContactDetails",
+         "patterns": ["how should i contact the college?", "i need contact details of loyola college?","loyola college contact details", "contact details?"],
+         "responses": ["the following are the contact details:\n1. ph.no : 91-040-27862363\n2. email : laacademymyinformation@yahoo.in"],
+         "context_set": ""
+        }
+   ]
+}

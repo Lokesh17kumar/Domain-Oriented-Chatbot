@@ -1,0 +1,348 @@
+{"intents": [
+        {"tag": "principal",
+         "patterns": ["who is the principal of loyola ?", "who is Fr. Anthony pothireddy", "principal of loyola academy"],
+         "responses": ["Rev Fr Anthoy pothireddy is the principal of loyola academy"],
+         "context_set": ""
+        },
+        {"tag": "location",
+         "patterns": ["where is loyola academy situated?", "where is loyola college situated?","where is loyola situated?","tell me the location of loyola?"],
+         "responses": ["Loyola college is situated in old alwal, secunderabad, telengana, india."],
+         "context_set": ""
+        },
+        	
+        {"tag": "mission",
+         "patterns": ["what is the mission of loyola?", "what is the mission of the loyola college?", "what is the mission of loyola academy?"],
+         "responses": ["It is to form 'men and women for others' and mould our students as global citizens with competence, conscience and compassionate commitment & Special concern is shown towards the socially and economically underprivileged students."],
+         "context_set": ""
+        },
+        {"tag": "established",
+         "patterns": ["when was loyola college established?", "in which year was the college established?","when was loyola ug and pg college was founded?","in which year was the college established?"],
+         "responses": ["Loyola academy degree & pg college was established in the year 1978"],
+         "context_set": ""
+        },
+        {"tag": "viceprincipal",
+        "patterns": ["who is the vice principal of the college?", "who is the vice principal of loyola?", "who is the vice principal of loyola academy?", "who is the vice principal of loyola college?"],
+        "responses": ["1. Rev Fr Dr L Joji Reddy SJ is the vice principal of loyola pg college\n 2. Rev Fr Dr Balaswamy Sj is the vice principal of loyola ug college"],
+        "context_set": ""
+	},
+	{"tag": "Rector",
+        "patterns": [ "who is the rector of loyola college?","Rector of loyola","Who is the rector?"],
+        "responses": [""],
+        "context_set": ""
+	},	
+	{"tag": "correspondent",
+        "patterns": ["who is the correspondent of the college?", "who is the correspondent of loyola?", "who is the correspondent of loyola academy?", "who is the correspondent of loyola acedemy?", "who is the correspondent of loyola college?"],
+        "responses": ["Rev Fr P Gnanadevan Swaminathan SJ is the correspondent of the college."],
+        "context_set": ""
+	},
+        {"tag": "founder",
+        "patterns": ["who is the founder of the college?", "who founded loyola?", "who is Fr Balaiah?"],
+        "responses": ["Rev Fr T Balaiah is the founder of the loyola academy Degree and P.G college."],
+        "context_set": ""
+	},
+       
+        {"tag": "about",
+         "patterns": ["tell me something about loyola college?", "tell me something about loyola?","what is loyola academy?", "tell me about loyola academy?"],
+         "responses": ["Loyola academy degree and pg college is a catholic miniority institution. Loyola college offers 21 UG courses along with 5 PG courses"],
+         "context_set": ""
+        },
+
+        {"tag": "management",
+         "patterns": ["loyola college is managed by whom?", "loyola academy is managed by whom?","who owns loyola college?","who owns loyola? "],
+         "responses": ["Loyola college is managed and administered by the andhra jesuit Province, belonging to the society of jesus, an international catholic religious order."],
+         "context_set": ""
+        },
+
+        {"tag": "affiliation",
+         "patterns": ["loyola college is affiliated to which university?", "loyola is affiliated to which university?","loyola academy is affiliated to which university?","does loyola college has any affiliation"],
+         "responses": ["Loyola college is affiliated to the osmania university and was granted the status of autonomy in 1992 by the university grant comission"],
+         "context_set": ""
+        },
+
+	{"tag": "campusarea",
+         "patterns": ["what is the campus area of the college?", "what is the campus area of loyola?","what is the campus area?"],
+        "responses": ["Loyola college has a campus area of 138 acres, with playfields and farm."],
+         "context_set": ""
+        },
+
+        {"tag": "collegedetails",
+         "patterns": ["tell me something about loyola academy", ""],
+         "responses": ["1. loyola college is a catholic minority institution\n2. education world ranked loyola college 1st at state level & 11th at national level\n3. NAAC re-accredited loyola college in 2019 & awarded an 'A' grade\n4. our vast campus which is approx 132 acres, makes us hyderabad's largest private college\n5. loyola college has a total of 6 blocks,own weather station & reverse osmosis water purification unit\n7. loyola emphasizes as much on practical understanding as on theory, with a total of 28 labs."],
+         "context_set": ""
+        },
+
+        {"tag": "collegerankings",
+         "patterns": ["what is the college ranking of loyola?", "what is the rank of loyola college?", "what is thre rank of loyola academy?","what is the rank of loyola?"],
+         "responses": ["1. education world ranked loyola college 1st at state level & 11th at national level\n2. india today rated the loyola college for the 3rd consecutive year by giving 1st rank among the city colleges of hyderabad & secunderabad for commerce, science & arts"],
+         "context_set": ""
+        },
+
+        {"tag": "studentsstrength",
+         "patterns": ["how many students are there in loyola?", "how many students are there in loyola college?", "how many students are there in loyola academy?", "how many students are there on campus?", "what is the strength of the students loyola?"],
+         "responses": "There are approximately 4105 students on campus.",
+         "context_set": ""
+        },
+
+        {"tag": "vision",
+         "patterns": ["what is the vision of the college?", "what is the vision of the loyola college?", "what is the vision of loyola academy?", "what is the vision of loyola?"],
+         "responses": "To impart higher education with integral formation which involves academic excellence, spiritual growth, social commitment and value based leadership.",
+         "context_set": ""
+        },	
+
+	{"tag": "fourcs",
+         "patterns": ["what are the 4 c's of the college?", "what are the 4 c's of the loyola college?", "what are the 4 c's of loyola academy?", "what are the 4 c's of loyola?"],
+         "responses": ["Competence, Conscience, Commitment & Compassion"],
+         "context_set": ""
+        },
+	
+	{"tag": "viceprincipal",
+        "patterns": ["who is the vice principal of the college?", "who is the vice principal of loyola?", "who is the vice principal of loyola academy?", "who is the vice principal of loyola college?"],
+        "responses": ["1. Rev Fr Dr L Joji Reddy SJ is the vice principal of loyola pg college\n 2. Rev Fr Dr Balaswamy Sj is the vice principal of loyola ug college"],
+        "context_set": ""
+	},
+
+	{"tag": "library",
+        "patterns": ["tell me something about loyola library?", "tell me something about library of loyola college?", "tell me something about library of loyola academy?", "tell me something about loyola library?"],
+        "responses": ["1. the library at loyola degree & pg college is considered to be 1 in the twin cities\n2. the existing loyola library building was inaugurated on 25th jan 2002\n3. the total area of the library is 1234 sq yards\n4. the max seating capicity is 220"],
+        "context_set": ""
+	},	 
+
+	{"tag": "collegefacilities",
+        "patterns": ["what are the facilities provided by the college?", "what are the facilities provided by loyola?", "what are the facilities provided by loyola academy?", "what are the facilities provided by the college?"],
+        "responses": ["1. Boys hostel\n2. Girls hostel\n3. GYM\n4. Library\n5. Sports\n6. Cafeteria\n7. Auditorium\n8. Medical\n9. wifi\n10. IT infrastructure\n11. Laboratories\n12. Alumni associations\n13. Guest room"],
+        "context_set": ""
+	},	
+
+	{"tag": "dadean",
+        "patterns": ["who is the dean of development affairs?", "who is the dean of development affairs of the college?", "who is the dean of development affairs of loyola?", "who is the dean of development affairs of loyola academy?"],
+        "responses": ["Mr PVRS Prasad is the  Dean of Developmental affairs for the loyola college"],
+        "context_set": ""
+	},
+
+	{"tag": "naaccoordinator",
+        "patterns": ["who is the naac coordinator?", "who is the naac co ordinator of the college?", "who is the naac co ordinator of loyola college?", "who is the naac co ordinator of loyola academy?"],
+        "responses": ["Dr Sonika Sharma is the  NAAC Coordinator for the loyola college."],
+        "context_set": ""
+	},
+
+	{"tag": "deanpgacd",
+        "patterns": ["who is the dean of academics for the pg section of the college?", "who is the dean of academics for the loyola pg college?", "who is the dean of academics for pg section?"],
+        "responses": ["Dr Sonika Sharma is the Dean of Academics for the loyola PG college."],
+        "context_set": ""
+	},	
+
+	{"tag": "deanugacd",
+        "patterns": ["who is the dean of academics for the ug section of the college?", "who is the dean of academics for the loyola ug college?", "who is the dean of academics for ug section?"],
+        "responses": ["Mrs K Rama is the dean of academics for the loyola UG college."],
+        "context_set": ""
+	},	
+
+	{"tag": "deanadmin",
+        "patterns": ["who is the dean of administration of the college?", "who is the dean of administration of loyola?", "who is the dean of administration of loyola college?", "who is the dean of administration of loyola academy?"],
+        "responses": ["Dr N Maria Das is the Dean of Administration of the loyola college."],
+        "context_set": ""
+	},
+
+	{"tag": "sciencedean",
+        "patterns": ["who is the dean of science of the college?", "who is the dean of science of loyola?", "who is the dean of science of loyola college?", "who is the science of loyola academy?"],
+        "responses": ["Dr K Krishna Mohan is the Dean of Science of the loyola college."],
+        "context_set": ""
+	},
+
+	{"tag" : "commercedean",
+	"patterns" : ["who is the dean of commerce of the college?", "who is the dean of commerce of loyola?", "who is the dean of commerce of loyola college?", "who is the commerce of loyola academy?"],
+	"responses" : ["Dr Jacqueline Williams is the Dean of Commerce of the loyola college."],
+	"context_set" : ""
+	},			     	      
+
+	{"tag" : "artsdean",
+	"patterns" : ["who is the dean of arts of the college?", "who is the dean of arts of loyola?", "who is the dean of arts of loyola college?", "who is the arts of loyola academy?"],
+	"responses" : ["Mr B Bhaskara Rao is the Dean of Arts of the loyola college."],
+	"context_set" : ""
+	},		     	      
+
+	{"tag" : "studentaffairsdean",
+	"patterns" : ["who is the dean of student affairs of the college?", "who is the dean of student affairs of loyola?", "who is the dean of student affairs of loyola college?", "who is the student affairs of loyola academy?"],
+	"responses" : ["Mrs Grace Sarojini Israel is the Dean of Student affairs of the loyola college."],
+	"context_set" : ""
+	},
+
+	{"tag" : "deanstudentactivities",
+	"patterns" : ["who is the dean of student activities of the college?", "who is the dean of student activities of loyola?", "who is the dean of student activities of loyola college?", "who is the student activities of loyola academy?"],
+	"responses" : ["Mrs P M Mamatha Rani is the Dean of Student Activities."],
+	"context_set" : ""
+	},			     	      			     	  
+
+	{"tag" : "culturalactivitiesdean",
+	"patterns" : ["who is the dean of cultural activities of the college?", "who is the dean of cultural activities of loyola?", "who is the dean of cultural activities of loyola college?", "who is the cultural activities of loyola academy?"],
+	"responses" : ["Mrs G Sirisha is the Dean of Cultural Activities(PG)  of the loyola college."],
+	"context_set" : ""
+	},  
+ 
+	{"tag" : "loyolaacademics",
+	"patterns" : ["tell me about academics at loyola","tell me about academics at loyola college?", "tell me about academics at the college","how are academics at loyola?","how are academics at loyola college?","how are academics at the college?"],
+	"responses" : ["1. Academics form the core of the loyola academy mission & we truly offer a world class experience\n2. Across our courses, infrastructure, faculty & evaluation methods, students are exposed to the very best of collegiate education\n3. Just a few numbers summarizing academics at loyola : 4105 students, 26 courses, 68 support staff, 148 faculty"],
+	"context_set" : ""
+	},
+
+	{"tag" : "loyolacourses",
+	"patterns" : ["which courses are offered by loyola?","what are the courses that are offered by loyola?","what are the courses that are offered by the loyola college?","what are the courses offered by the college?","courses offered by loyola?","courses offered by the college?","courses offered by the college?"],
+	"responses" : ["Courses offered by the loyola college are:-\n1.Under Graduate courses:\nloyola offers a total of 21 UG courses, resulting in award of BA, BCom & BSc degrees\n2. Post Graduate courses:\nloyola offers a total of 5 PG courses, resulting in award of MCA, MBA & Msc degrees."],
+	"context_set" : ""
+	},
+
+	{"tag" : "ugcourses",
+	"patterns" : ["show me the list of UG courses","list of UG courses offered at loyola","list of UG courses offered by the college?","list of UG courses offered at loyola academy"],
+	"responses" : ["1.  BSc - Chemical Technology\n2.  BSc(Honours) - in  Agriculture Science and Rural Development\n3  BSc - Computer Science and Engineering\n4  BCom Honors\n5.  BSc - Electronics Technology\n6.  BSc - Computer Systems & Engineering\n7.  BCom - Advertising, Sales Promotion & Sales Management\n8.  BSc - Biotechnology, Chemistry & Genetics\n9.  BCom - General / Business Studies\n10. BA - Mass Communication\n11. BSc - Food Technology and Management\n12. BA - Psychology, English & Journalism\n13. BSc - Maths, Statistics & Computer Science\n14. BSc - Multimedia and Animation\n15. BCom - Computers\n16. BBA - Bachelor of Business Administration\n17. BCom - International Accounting & Finance\n18. BSc - Computer Data Science & Analytics Engineering\n19. BCom(Honors) - in Strategic Finance\n20. BCom - Business Process Management\n21. BSc - Food Science, Nutrition & Dietetics "],
+	"context_set" : ""
+	},
+
+	{"tag" : "pgcourses",
+	"patterns" : ["show me the list of PG courses","list of PG courses offered at loyola","list of PG courses offered by the college?","list of PG courses offered at loyola academy"],
+	"responses" : ["1. MCA - Master of Computer Applications\n2. MBA - Master of Business Administration\n3. MSc - Organic Chemistry\n4. MSc - Bio Technology\n5. MSc - Food Technology & Management."],
+	"context_set" : ""
+	},
+        {"tag": "fees ct",
+        "patterns": ["what is the fees of Chemical Technology?"],
+        "responses": ["Fees of chemical technology is 40000(1st year) 42000(2nd year) 44000(3rd year)"],
+        "context_set": ""
+	},
+        {"tag": "fees agri",
+        "patterns": [ "what is the fees of Agriculture?","fees of agricultural sciences","fees of agri"],
+        "responses": [ "BSc (Honours) - in  Agriculture science and rural development (UG)-  44500(1st year)     45500(2nd year)    46500(3rd year)   48000(4th year)."],
+        "context_set": ""
+	},
+        {"tag": "fees cse",
+        "patterns": [ "what is the fees of Computer Science?"],
+        "responses": [ "Fees of computer science in loyola is 52000(1st year)  54000(2nd year)  56000(3rd year)"],
+        "context_set": ""
+	},
+        {"tag": "fees ch",
+        "patterns": [ "what is the fees of Bcom Honors?"],
+        "responses": ["BCom Honors - 45000  47000 49000."],
+        "context_set": ""
+	},
+        {"tag": "fees et",
+        "patterns": ["what is the fees of Bsc Electronics?"],
+        "responses": ["BSc - Electronics Technology (UG) -   58500  59500  61500."],
+        "context_set": ""
+	},
+        {"tag": "fees ce",
+        "patterns": [ "what is the fees of Bsc Computer Systems and Engeering?"],
+        "responses": ["BSc - Computer Systems & Engineering (UG)  -  54000   55000  56000."],
+        "context_set": ""
+	},
+        {"tag": "fees bt",
+        "patterns": [ "what is the fees of Bsc Biotechnology, Chemistry & Genetics?"],
+        "responses": ["BSc - Biotechnology, Chemistry & Genetics (UG)  56500  57600  58700."],
+        "context_set": ""
+	},
+        {"tag": "fees adt",
+        "patterns": [ "what is the fees of Bsc Biotechnology, Chemistry & Genetics?"],
+        "responses": ["BCom - Advertising, Sales Promotion & Sales Management (UG)   59000  60000  61000."],
+        "context_set": ""
+	},
+        {"tag": "fees gnrl",
+        "patterns": [ "what is the fees of BCom - General / Business Studies?"],
+        "responses": ["BCom - General / Business Studies (UG)  4000  43000  46000."],
+        "context_set": ""
+	},
+        {"tag": "fees mc",
+        "patterns": [ "what is the fees of BA - Mass Communication?"],
+        "responses": ["BA - Mass Communication (UG)  70000  70000  70000."],
+        "context_set": ""
+	},
+        {"tag": "fees ft",
+        "patterns": [ "what is the fees of BSc - Food Technology and Management (UG)?"],
+        "responses": ["BSc - Food Technology and Management (UG)  62000  64500  66200."],
+        "context_set": ""
+	},
+        {"tag": "fees el",
+        "patterns": [ "what is the fees of BA - Psychology, English & Journalism?"],
+        "responses": ["BA - Psychology, English & Journalism (UG)  45000  47000  49000."],
+        "context_set": ""
+	},
+        {"tag": "fees mscs",
+        "patterns": [ "what is the fees of BSc - Maths, Statistics & Computer Science?"],
+        "responses": ["BSc - Maths, Statistics & Computer Science (UG)  57500  59500  60500."],
+        "context_set": ""
+	},
+        {"tag": "fees ma",
+        "patterns": [ "what is the fees of BSc - Multimedia and Animation? "],
+        "responses": ["BSc - Multimedia and Animation (UG)  70300  70300  70300."],
+        "context_set": ""
+	},
+        {"tag": "fees comp",
+        "patterns": [ "what is the fees of BCom - Computers ? "],
+        "responses": ["BCom - Computers (UG)  64000  65000  66000."],
+        "context_set": ""
+	},
+        {"tag": "fees bba",
+        "patterns": [ "what is the fees of BBA - Bachelor of Business Administration? "],
+        "responses": ["BBA - Bachelor of Business Administration (UG)  50200  51200  52200."],
+        "context_set": ""
+	},
+        {"tag": "fees cds",
+        "patterns": [ "what is the fees of BSc - Computer Data Science & Analytics Engineering?"],
+        "responses": ["BSc - Computer Data Science & Analytics Engineering (UG)  58000  59000  60000."],
+        "context_set": ""
+	},
+        {"tag": "fees sf",
+        "patterns": [ "what is the fees of BCom(Honors) - in Strategic Finance?"],
+        "responses": ["BCom(Honors) - in Strategic Finance (UG)  85400  86400  87400."],
+        "context_set": ""
+	},
+        {"tag": "fees bps",
+        "patterns": [ "what is the fees of BCom - Business Process Management?"],
+        "responses": ["BCom - Business Process Management  48500  52500  54600."],
+        "context_set": ""
+	},
+        {"tag": "fees fs",
+        "patterns": [ "what is the fees of BSc - Food Science, Nutrition & Dietetics ?"],
+        "responses": ["BSc - Food Science, Nutrition & Dietetics (UG)  60500  61500  62500."],
+        "context_set": ""
+	},
+        {"tag": "fees iaf",
+        "patterns": [ "what is the fees of BCom - International Accounting & Finance?"],
+        "responses": ["BCom - International Accounting & Finance (UG)  75000  77000  79000."],
+        "context_set": ""
+	},
+                {"tag" : "admission_process",
+	"patterns" : ["what is the process of admission in loyola?","how to get admission in loyola?","Admission process in loyola"],
+	"responses" : ["The admission process for getting admission into the loyola college:\n1. Register and Apply\nInterested candidates can apply offline with required information\n2 Entrance Test\nEligible candidates need to appear for an entrance test conducted by Loyola Academy Degree and PG College\n3 Personal Interview\nShortlisted candidates will be called for a personal interview based on the marks obtained in the entrance test."],
+	"context_set" : ""
+	},
+        {"tag": "Exam evaluation",
+        "patterns": ["How are exams conducted in loyola?", "Evaluation process of exams in loyola?", "Exam evaluation process in loyola?"],
+        "responses": ["Loyola college has adopted a Continuous Internal Assessment (CIA) method to go along with the standard Semester-End System\nThere are various tests for different courses, The following are the common methods for evaluation of loyola are:\n1. Weekly Assignments\nHeld once every week, comprise 15 marks\n2. Mid-Semesters\nMakes for 25 marks\n3. Other Markers\nInclude viva voce, seminars, attendance & assessments, and are allotted 20 marks\n4. Semester-End Exams"],
+        "context_set": ""
+	},
+        {"tag": "Top Recruiters",
+        "patterns": [ "Placement facilities in loyola?","Top recruiters of loyola","Placement companies in loyola?"],
+        "responses": ["Here are some of the Top Recruiters of the Loyola College :\n1. IBM\n2. Hetero\n3. Ultra Tech\n4. WELLS FARGO\n5. Broadridge\n6. asianpaints\n7. CONVERGYS\n8. amazon\n9. C3i SOLUTIONS\n10. Cognizant\n11. DAICEL\n12. FRANKLIN TEMPLETON INVESTMENTS\n13. genpact\n14. Goldman Sachs\n15. HBL\n16. DELL\n17. Deloitte\n18. AEGON\n19. CtrlS\n20. HGS\n21. ADP\n22. IKS\n23. HSBC\n24. ICICI Bank\n25. Infosys\n26. ITC\n27. MSN\n28. MRF\n29. NEULAND\n30. Orchid Chemicals & Pharmaceuticals Ltd\n31. Qualcomm\n32. Ryan\n33. South INDIAN Bank\n34. TCS\n35. STATE STREET\n36. SUTHERLAND\n37. THOMSON REUTERS\n38. Apollo HOSPITALS\n39. BE-Biological E Limited\n40. wipro\n41. Tech Machindra\n42. UNISYS\n43. verizon\n44. virtusa\n45. Dr Reddy's."],
+        "context_set": ""
+	},
+        {"tag": "clubs",
+        "patterns": [ "What are the clubs present in loyola ? ","Clubs in loyola ?"],
+        "responses": ["The Clubs that are running for the academic year 2019-20 are:\n1. Dance and Dramatics Club\n2. GK Club\n3. Literary and Book Club\n4. Magic Youth Club\n5. Drawing and Painting Club (Art Club)\n6. Entrepreneurâ€™s Club\n7. Debate and Elocution Club\n8. Consumer Awareness Club\n9. Music Club\n10. Photography Club."],
+        "context_set": ""
+	},
+        {"tag": "Greetings",
+        "patterns": [ "hii","Hello","hey","hlooo"],
+        "responses": ["hey","hellooo","hiii"],
+        "context_set": ""
+	},
+        {"tag": "Help",
+        "patterns": [ "What can you do?","How can u help?"],
+        "responses": ["Hey i'm a domain oriented chatbot developed for loyola college.I can answer your queries related to loyola college."],
+        "context_set": ""
+	},
+        {"tag": "built",
+        "patterns": [ "how are u built?","how are u developed?"],
+        "responses": ["I'm a chatbot built using machine learning with python"],
+        "context_set": ""
+	}
+   ]
+}
+  
+        
